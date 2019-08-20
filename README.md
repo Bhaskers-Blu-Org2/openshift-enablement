@@ -6,6 +6,19 @@ For Microsoft employees, additional OpenShift on Azure enablement resources are 
 
 For Red Hat employees, additional OpenShift on Azure enablement resources are available at [todo](#).
 
+## Provisioning
+
+- Azure Red Hat OpenShift (managed OpenShift) - OpenShift 3.11 (Kubernetes 1.11)
+  - Generally Available
+  - Step-by-Step Tutorials on [https://docs.microsoft.com/azure/openshift/](https://docs.microsoft.com/azure/openshift/)
+- OpenShift on Azure IaaS (self-managed OpenShift) - OpenShift 4.2 (Kubernetes 1.14)
+  - Developer Preview
+  - Step-by-Step on GitHub - work in progress, merging to master soon - [https://github.com/openshift/installer/blob/2535155c04539ffe6bb898bcb2e65c2d9c57ec1b/docs/user/azure/install.md](https://github.com/openshift/installer/blob/2535155c04539ffe6bb898bcb2e65c2d9c57ec1b/docs/user/azure/install.md)
+
+## Workshops, Training, and Enablement
+
+todo
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit [https://cla.opensource.microsoft.com](https://cla.opensource.microsoft.com).
