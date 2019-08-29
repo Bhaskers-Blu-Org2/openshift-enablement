@@ -4,7 +4,7 @@ This is a landing curated by experts around enablement and readiness of OpenShif
 
 For Microsoft employees, additional OpenShift on Azure enablement resources are available at [aka.ms/openshift/playbook](https://aka.ms/openshift/playbook).
 
-For Red Hat employees, additional OpenShift on Azure enablement resources are available at [aka.ms/openshift/enablement](https://aka.ms/openshift/enablement).
+For Red Hat employees, additional OpenShift on Azure enablement resources are available at [aka.ms/openshift/redhat](https://aka.ms/openshift/redhat).
 
 ## Provisioning OpenShift Clusters
 
